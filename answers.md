@@ -1,7 +1,7 @@
 # Big O Answers
 
 ## Snippet 1 -
-### Big O:
+### Big O: O(n)
 ### Explanation:
 ```python
 def largest(array, value):
@@ -13,7 +13,7 @@ def largest(array, value):
 
 
 ## Snippet 2 -
-### Big O:
+### Big O: O(n)
 ### Explanation:
 
 ```python
@@ -30,7 +30,7 @@ def info_dump(customers):
 ```
 
 ## Snippet 3 -
-### Big O:
+### Big O: O(1)
 ### Explanation:
 
 ```python
@@ -39,7 +39,7 @@ def first_element_is_red(array):
 ```
 
 ## Snippet 4 -
-### Big O:
+### Big O: O(n^2)
 ### Explanation:
 
 ```python
@@ -54,7 +54,7 @@ def duplicates(array):
 ``` 
 
 ## Snippet 5 -
-### Big O:
+### Big O: O(1)
 ### Explanation:
 
 ```python
@@ -68,7 +68,7 @@ for word in words:
 ```
 
 ## Snippet 6 -
-### Big O:
+### Big O: O(n)
 ### Explanation:
 
 ```python
@@ -81,7 +81,7 @@ def print_array(array):
 ```
 
 ## Snippet 7 -
-### Big O:
+### Big O: O(n)
 ### Explanation:
 
 ```python
@@ -97,7 +97,7 @@ def insertionSort(arr):
 ```
 
 ## Snippet 8 -
-### Big O:
+### Big O: O(n^2)
 ### Explanation:
 
 ```python
